@@ -1,1 +1,2 @@
-# vue-hungry-tables
+# Vue Hungry Tables
+Datatables for vuejs
